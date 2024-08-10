@@ -46,12 +46,6 @@ yarn package
 
 See our [docs and guides here](soon)
 
-## Sponsors
-
-<a href="https://palette.dev">
-  <img src=".erb/img/palette-sponsor-banner.svg" width="100%" />
-</a>
-
 ## Donations
 
 **Donations will ensure the following:**
